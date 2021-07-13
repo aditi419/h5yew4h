@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px gray;
+    color: white;
+    font-weight: 600;
+}
